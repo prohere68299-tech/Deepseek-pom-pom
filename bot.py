@@ -17,7 +17,7 @@ import qrcode
 from io import BytesIO
 
 # ==================== CONFIG ====================
-BOT_TOKEN = "8686350329:AAEpL3wO4egv8_ioHedORUpVTg2jjeeUCdI"  # ← APNA TOKEN YAHAN DAALO
+BOT_TOKEN = "8807095106:AAFFMxBPjyaoPni2QyG3xvuiNswShJq3jDE"  # ← APNA TOKEN YAHAN DAALO
 CHECK_INTERVAL = 3600
 
 # ==================== PATHS ====================
